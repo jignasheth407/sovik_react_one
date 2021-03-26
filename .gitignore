@@ -1,0 +1,4 @@
+node_modules
+sovik-react-app.txt
+.dockerignore
+Dockerfile
